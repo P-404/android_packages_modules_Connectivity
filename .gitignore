@@ -13,3 +13,6 @@
 
 # Vim temporary files
 **/*.swp
+
+# Ignore large generated JSON files
+tools/gn2bp/*.json
